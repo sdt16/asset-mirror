@@ -10,7 +10,7 @@ on:
 
 env:
   BRANCH: endeavouros
-  GITHUB_ENDPOINT: netbootxyz/asset-mirror
+  GITHUB_ENDPOINT: sdt16/asset-mirror
   DISCORD_HOOK_URL: ${{ secrets.DISCORD_HOOK_URL }}
   BUILD_TYPE: initrd_patch
   DEBIAN_FRONTEND: noninteractive
